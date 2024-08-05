@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /* Corrected typo from 'boc-sizing' */
+}
+
+/* Class for setting a light grey background color */
+.bg-dark {
+    background-color: #f0f0f0;
+}
+
+/* Class for adding 50px top margin */
+.mt-50 {
+    margin-top: 50px;
+}
